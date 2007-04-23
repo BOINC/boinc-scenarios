@@ -1,0 +1,20 @@
+<projects>
+    <project>
+        <project_name>P1</project_name>
+        <resource_share>100</resource_share>
+        <app>
+            <latency_bound>604800</latency_bound>
+            <fpops_est>360</fpops_est>
+            <fpops>
+                <mean>360</mean>
+                <stdev>1000</stdev>
+            </fpops>
+            <working_set>1e7</working_set>
+            <weight>25</weight>
+        </app>
+        <available>
+            <frac>.7</frac>
+            <lambda>1000</lambda>
+        </available>
+    </project>
+</projects>
