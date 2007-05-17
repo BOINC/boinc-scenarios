@@ -7,7 +7,7 @@
             <fpops_est>360</fpops_est>
             <fpops>
                 <mean>360</mean>
-                <stdev>1000</stdev>
+                <stdev>10000</stdev>
             </fpops>
             <working_set>1e7</working_set>
             <weight>25</weight>
