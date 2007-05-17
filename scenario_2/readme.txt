@@ -1,0 +1,1 @@
+This simulation will fail to get much work reported on time unless the server refuses to deliver work that has a deadline less than min_queue.  Both min_queue and connection_interval are set to one day, and one of the applications has a deadline of less than a day.

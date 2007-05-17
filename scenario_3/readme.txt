@@ -1,0 +1,1 @@
+One of the projects cannot supply work that will complete on time.  The other project can.  Project A has only one application, and that application has a latency bound that is less than the connection interval.  Both the connection interval and the work buf min queue are set to a day.

@@ -1,0 +1,3 @@
+This tests the ability of the client to cope with a project that feeds a very wide range of completion lengths.  The average is 6 minutes, but the standard deviation is 10000 seconds, meaning that the maximum expected run length is around 7.5 hours minutes.  Unless done well, the host is likely to run out of work during the disconnected period (one day).  Believe it or not, there actually is a project that sort of does this.
+
+This would be better simulated with a different distribution model.
