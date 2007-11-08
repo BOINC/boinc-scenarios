@@ -7,8 +7,8 @@
 <leave_apps_in_memory/>
 <cpu_scheduling_period_minutes>60</cpu_scheduling_period_minutes>
 <hangup_if_dialed/>
-<work_buf_min_days>1</work_buf_min_days>
-<work_buf_additional_days>0</work_buf_additional_days>
+<work_buf_min_days>0</work_buf_min_days>
+<work_buf_additional_days>0.01</work_buf_additional_days>
 <max_cpus>4</max_cpus>
 <cpu_usage_limit>100</cpu_usage_limit>
 <disk_interval>180</disk_interval>

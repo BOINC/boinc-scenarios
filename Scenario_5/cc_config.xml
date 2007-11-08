@@ -8,6 +8,6 @@
     <task_debug>1</task_debug> 
     <work_fetch_debug>1</work_fetch_debug> 
     <app_msg_send>0</app_msg_send> 
-    <unparsed_xml />
+    <unparsed_xml/>
   </log_flags>
 </cc_config>

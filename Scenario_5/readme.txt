@@ -1,3 +1,1 @@
-The cause of the two part scheduler (RR and EDF).
-
-40 projects each with a load factor of 10.
+Vast under estimate of work to be done for one project will cause other projects to be late if there is a cap on duration_correction_factor, and projects that are at or near that cap do not enter earliest deadline first immediately.
