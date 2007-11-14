@@ -3,8 +3,8 @@
         <project_name>P1</project_name>
         <resource_share>100</resource_share>
         <app>
-            <latency_bound>20000</latency_bound>
-            <fpops_est>1</fpops_est>
+            <latency_bound>15000</latency_bound>
+            <fpops_est>10</fpops_est>
             <fpops>
                 <mean>10000</mean>
                 <stdev>10</stdev>
@@ -21,10 +21,10 @@
         <project_name>P2</project_name>
         <resource_share>100</resource_share>
         <app>
-            <latency_bound>1000</latency_bound>
+            <latency_bound>5000</latency_bound>
             <fpops_est>100</fpops_est>
             <fpops>
-                <mean>10000</mean>
+                <mean>100</mean>
                 <stdev>10</stdev>
             </fpops>
             <working_set>1e7</working_set>
